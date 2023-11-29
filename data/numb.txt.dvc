@@ -1,0 +1,5 @@
+outs:
+- md5: 50e23554d8ee0c51e601fbda092ecd63
+  size: 52
+  hash: md5
+  path: numb.txt
